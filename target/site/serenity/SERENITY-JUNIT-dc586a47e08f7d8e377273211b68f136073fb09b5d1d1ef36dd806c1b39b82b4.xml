@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="As user I want to see home page So that i can buy product" skipped="0" tests="2" time="0.98" timestamp="2023-05-03 07:46:24"><testcase name="POST - As a user I success to login with valid data"/><testcase name="POST - As a user i want to login with invalid data"/></testsuite>

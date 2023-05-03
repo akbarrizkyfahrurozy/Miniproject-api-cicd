@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"As user i want to see product, create new product, see product by id, delete a product, see product comments","POST - As a user I want to create a new product","SUCCESS","2023-05-03T19:46:26.780716+07:00[Asia/Jakarta]","0.0","0.18"
+"As user i want to see product, create new product, see product by id, delete a product, see product comments","GET - As a user I want to get all product","SUCCESS","2023-05-03T19:46:26.9712382+07:00[Asia/Jakarta]","0.0","0.89"
+"As user i want to see product, create new product, see product by id, delete a product, see product comments","DELETE - As a user I want to delete a product","SUCCESS","2023-05-03T19:46:27.8747108+07:00[Asia/Jakarta]","0.0","0.13"
+"As user i want to see product, create new product, see product by id, delete a product, see product comments","GET - As a user I want to see product comments","SUCCESS","2023-05-03T19:46:28.0103695+07:00[Asia/Jakarta]","0.0","0.14"

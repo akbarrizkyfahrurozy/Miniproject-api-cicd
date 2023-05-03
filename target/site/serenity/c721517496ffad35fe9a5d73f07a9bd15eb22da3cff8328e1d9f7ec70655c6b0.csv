@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"As user I want to see home page So that i can buy product","POST - As a user I success to login with valid data","SUCCESS","2023-05-03T19:46:24.7436357+07:00[Asia/Jakarta]","0.0","0.3"
+"As user I want to see home page So that i can buy product","POST - As a user i want to login with invalid data","SUCCESS","2023-05-03T19:46:25.0676664+07:00[Asia/Jakarta]","0.0","0.68"

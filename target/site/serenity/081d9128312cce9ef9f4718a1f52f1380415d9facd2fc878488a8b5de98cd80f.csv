@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"As user i want to create account So that i can login and see home page","POST - As a user I success to create account with valid data","SUCCESS","2023-05-03T19:46:28.6766579+07:00[Asia/Jakarta]","0.0","0.32"
+"As user i want to create account So that i can login and see home page","POST - As a user I failed to create account with empty password","SUCCESS","2023-05-03T19:46:29.0056159+07:00[Asia/Jakarta]","0.0","0.14"

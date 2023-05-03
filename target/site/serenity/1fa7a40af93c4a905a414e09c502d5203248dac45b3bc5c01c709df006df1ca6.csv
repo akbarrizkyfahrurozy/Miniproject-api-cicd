@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"As user i want to test order on website","POST - As a user I want to create a new order","SUCCESS","2023-05-03T19:46:25.7787087+07:00[Asia/Jakarta]","0.0","0.28"
+"As user i want to test order on website","GET - As a user I want to list all my order","SUCCESS","2023-05-03T19:46:26.0720832+07:00[Asia/Jakarta]","0.0","0.7"
